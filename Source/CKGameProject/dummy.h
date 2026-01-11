@@ -4,16 +4,16 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "dummy.generated.h"
+#include "Dummy.generated.h"
 
 UCLASS()
-class CKGAMEPROJECT_API Adummy : public AActor
+class CKGAMEPROJECT_API ADummy : public AActor
 {
 	GENERATED_BODY()
 	
 public:	
 	// Sets default values for this actor's properties
-	Adummy();
+	ADummy();
 
 protected:
 	// Called when the game starts or when spawned
