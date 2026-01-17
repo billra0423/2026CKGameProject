@@ -22,6 +22,6 @@ void ADummy::BeginPlay()
 void ADummy::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
+   
 }
 
